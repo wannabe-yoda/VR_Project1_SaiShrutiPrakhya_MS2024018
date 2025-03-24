@@ -1,1 +1,2 @@
-
+This folder contains the models trained with 6 different configurations along with the confusion matrix and loss curves for each 
+configuration. The best performing model was config 3. 
